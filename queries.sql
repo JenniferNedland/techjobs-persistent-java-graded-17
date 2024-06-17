@@ -1,5 +1,5 @@
 --Part 1
---column name: type
+--column: type
 --id: int
 --employer: varchar(255)
 --name: varchar(255)
